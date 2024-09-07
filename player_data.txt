@@ -1,0 +1,6 @@
+5 
+Virat 300
+Rohit 250
+Surya 220
+Gill 160
+Hardik 200
